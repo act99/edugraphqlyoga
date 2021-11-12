@@ -1,0 +1,9 @@
+{
+  "name": "edugraphqlyoga",
+  "version": "1.0.0",
+  "description": "education for using graphql and graphql-yoga",
+  "main": "index.js",
+  "repository": "https://github.com/act99/edugraphqlyoga",
+  "author": "act99",
+  "license": "MIT"
+}
